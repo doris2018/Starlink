@@ -12,7 +12,7 @@ With this web application, it is easy to see sallites moving around the world. H
 
 
 
-💎 Fuctionality
+💎 Functionality
 
 •	On the home page, the location, altitude and duration data need to be put to refine the satellite search.
 
