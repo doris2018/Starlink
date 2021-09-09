@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Form, Button, InputNumber } from "antd";
-
 class SatSettingForm extends Component {
     render() {
         const { getFieldDecorator } = this.props.form;
